@@ -1,0 +1,1059 @@
+2025-01-24T09:22:23.221+05:30  INFO 12416 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 12416 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T09:22:23.234+05:30  INFO 12416 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T09:22:24.119+05:30  INFO 12416 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T09:22:24.132+05:30  INFO 12416 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T09:22:24.138+05:30  INFO 12416 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T09:22:24.178+05:30  INFO 12416 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T09:22:24.179+05:30  INFO 12416 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 902 ms
+2025-01-24T09:22:24.520+05:30  INFO 12416 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T09:22:24.529+05:30  INFO 12416 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.728 seconds (process running for 2.012)
+2025-01-24T09:25:41.049+05:30  INFO 14252 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 14252 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T09:25:41.052+05:30  INFO 14252 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T09:25:41.901+05:30  INFO 14252 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T09:25:41.917+05:30  INFO 14252 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T09:25:41.918+05:30  INFO 14252 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T09:25:41.960+05:30  INFO 14252 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T09:25:41.960+05:30  INFO 14252 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 861 ms
+2025-01-24T09:25:42.298+05:30  INFO 14252 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T09:25:42.307+05:30  INFO 14252 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.653 seconds (process running for 1.909)
+2025-01-24T09:26:22.986+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T09:26:22.987+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T09:26:22.987+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-01-24T09:26:23.027+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:23.028+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:25.002+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:25.003+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:37.847+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-3] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:37.847+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-3] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:38.067+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-4] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:38.068+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:38.285+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-7] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:38.285+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-7] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:38.823+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-8] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:38.824+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-8] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:39.017+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-5] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:39.017+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-5] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:39.195+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-6] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:39.196+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-6] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:39.401+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-9] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:39.402+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-9] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:39.628+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-10] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:39.629+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-10] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:39.853+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:39.853+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:40.680+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:40.680+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:26:40.899+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-3] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:26:40.899+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-3] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:27:08.092+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-4] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: arpit
+2025-01-24T09:27:08.093+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=400, description=Invalid status value. Accepted values are 'true' or 'false'., status=-1}
+2025-01-24T09:27:08.093+05:30  WARN 14252 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.serviceImp  : Invalid status received: arpit
+2025-01-24T09:27:10.034+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-7] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: arpit
+2025-01-24T09:27:10.035+05:30  INFO 14252 --- [truefalse] [http-nio-8080-exec-7] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=400, description=Invalid status value. Accepted values are 'true' or 'false'., status=-1}
+2025-01-24T09:27:10.035+05:30  WARN 14252 --- [truefalse] [http-nio-8080-exec-7] c.s.t.projectservicepacakage.serviceImp  : Invalid status received: arpit
+2025-01-24T09:58:42.650+05:30  INFO 34516 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 34516 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T09:58:42.652+05:30  INFO 34516 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T09:58:43.458+05:30  INFO 34516 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T09:58:43.470+05:30  INFO 34516 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T09:58:43.471+05:30  INFO 34516 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T09:58:43.513+05:30  INFO 34516 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T09:58:43.514+05:30  INFO 34516 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 822 ms
+2025-01-24T09:58:43.849+05:30  INFO 34516 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T09:58:43.856+05:30  INFO 34516 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.6 seconds (process running for 1.856)
+2025-01-24T09:59:00.528+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T09:59:00.529+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T09:59:00.530+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-24T09:59:00.568+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:59:00.569+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:59:02.982+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T09:59:02.982+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T09:59:25.903+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-3] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: arpit
+2025-01-24T09:59:25.904+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-3] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=400, description=Invalid status value. Accepted values are 'true' or 'false'., status=-1}
+2025-01-24T09:59:25.904+05:30  WARN 34516 --- [truefalse] [http-nio-8080-exec-3] c.s.t.projectservicepacakage.serviceImp  : Invalid status received: arpit
+2025-01-24T10:06:49.060+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-5] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: false
+2025-01-24T10:06:49.060+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-5] c.s.t.projectservicepacakage.serviceImp  : Returning failure response for status: false
+2025-01-24T10:07:02.532+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-6] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T10:07:02.532+05:30  INFO 34516 --- [truefalse] [http-nio-8080-exec-6] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T10:16:03.480+05:30  INFO 36304 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 36304 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:16:03.480+05:30  INFO 36304 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:16:04.252+05:30  INFO 36304 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:16:04.262+05:30  INFO 36304 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:16:04.262+05:30  INFO 36304 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:16:04.306+05:30  INFO 36304 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:16:04.308+05:30  INFO 36304 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 786 ms
+2025-01-24T10:16:04.654+05:30  INFO 36304 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T10:16:04.660+05:30  INFO 36304 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.583 seconds (process running for 1.854)
+2025-01-24T10:16:17.790+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T10:16:17.790+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T10:16:17.791+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-24T10:16:17.831+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T10:16:17.833+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T10:16:43.717+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: arpit
+2025-01-24T10:16:43.717+05:30  INFO 36304 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=400, description=Invalid status value. Accepted values are 'true' or 'false'., status=-1}
+2025-01-24T10:16:43.717+05:30  WARN 36304 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Invalid status received: arpit
+2025-01-24T10:20:23.818+05:30  INFO 17984 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 17984 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:20:23.820+05:30  INFO 17984 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:20:24.622+05:30  INFO 17984 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:20:24.636+05:30  INFO 17984 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:20:24.636+05:30  INFO 17984 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:20:24.683+05:30  INFO 17984 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:20:24.683+05:30  INFO 17984 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 824 ms
+2025-01-24T10:20:25.055+05:30  INFO 17984 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T10:20:25.064+05:30  INFO 17984 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.635 seconds (process running for 1.901)
+2025-01-24T10:20:26.982+05:30  INFO 17984 --- [truefalse] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T10:20:26.982+05:30  INFO 17984 --- [truefalse] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T10:20:26.984+05:30  INFO 17984 --- [truefalse] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-01-24T10:20:27.021+05:30  INFO 17984 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+
+2025-01-24T10:20:27.023+05:30  INFO 17984 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=400, description=Invalid status value. Accepted values are 'true' or 'false'., status=-1}
+2025-01-24T10:20:27.023+05:30  WARN 17984 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Invalid status received: true
+
+2025-01-24T10:32:48.497+05:30  INFO 8440 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 8440 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:32:48.499+05:30  INFO 8440 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:32:49.288+05:30  INFO 8440 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:32:49.305+05:30  INFO 8440 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:32:49.306+05:30  INFO 8440 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:32:49.349+05:30  INFO 8440 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:32:49.349+05:30  INFO 8440 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 811 ms
+2025-01-24T10:32:49.690+05:30  WARN 8440 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T10:32:49.703+05:30  INFO 8440 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T10:32:49.719+05:30 ERROR 8440 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T10:33:30.828+05:30  INFO 37736 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 37736 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:33:30.831+05:30  INFO 37736 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:33:31.663+05:30  INFO 37736 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:33:31.677+05:30  INFO 37736 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:33:31.678+05:30  INFO 37736 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:33:31.719+05:30  INFO 37736 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:33:31.719+05:30  INFO 37736 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 847 ms
+2025-01-24T10:33:32.069+05:30  INFO 37736 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T10:33:32.076+05:30  INFO 37736 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.639 seconds (process running for 1.899)
+2025-01-24T10:33:42.477+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T10:33:42.478+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T10:33:42.479+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-24T10:33:42.525+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T10:33:42.527+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T10:34:12.765+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: arpit
+2025-01-24T10:34:12.766+05:30  INFO 37736 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=400, description=Invalid status value. Accepted values are 'true' or 'false'., status=-1}
+2025-01-24T10:34:12.767+05:30  WARN 37736 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Invalid status received: arpit
+2025-01-24T10:39:12.763+05:30  INFO 17208 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 17208 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:39:12.766+05:30  INFO 17208 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:39:13.566+05:30  INFO 17208 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:39:13.581+05:30  INFO 17208 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:39:13.583+05:30  INFO 17208 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:39:13.624+05:30  INFO 17208 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:39:13.625+05:30  INFO 17208 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 812 ms
+2025-01-24T10:39:13.941+05:30  WARN 17208 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T10:39:13.956+05:30  INFO 17208 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T10:39:13.972+05:30 ERROR 17208 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T10:39:45.212+05:30  INFO 26644 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 26644 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:39:45.215+05:30  INFO 26644 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:39:45.991+05:30  INFO 26644 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:39:46.004+05:30  INFO 26644 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:39:46.004+05:30  INFO 26644 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:39:46.041+05:30  INFO 26644 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:39:46.041+05:30  INFO 26644 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 786 ms
+2025-01-24T10:39:46.362+05:30  INFO 26644 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T10:39:46.363+05:30  INFO 26644 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.567 seconds (process running for 1.841)
+2025-01-24T10:40:06.311+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T10:40:06.312+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T10:40:06.313+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-24T10:40:06.352+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T10:40:06.354+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T10:40:06.354+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T10:47:16.499+05:30  INFO 33364 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 33364 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T10:47:16.499+05:30  INFO 33364 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T10:47:17.283+05:30  INFO 33364 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T10:47:17.298+05:30  INFO 33364 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T10:47:17.298+05:30  INFO 33364 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T10:47:17.343+05:30  INFO 33364 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T10:47:17.343+05:30  INFO 33364 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 800 ms
+2025-01-24T10:47:17.663+05:30  WARN 33364 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T10:47:17.681+05:30  INFO 33364 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T10:47:17.699+05:30 ERROR 33364 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T10:47:28.862+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-4] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T10:47:28.863+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T10:47:28.863+05:30  INFO 26644 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T11:01:53.333+05:30  INFO 31304 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 31304 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T11:01:53.338+05:30  INFO 31304 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T11:01:54.404+05:30  INFO 31304 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T11:01:54.419+05:30  INFO 31304 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T11:01:54.419+05:30  INFO 31304 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T11:01:54.479+05:30  INFO 31304 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T11:01:54.481+05:30  INFO 31304 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1093 ms
+2025-01-24T11:01:54.854+05:30  INFO 31304 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T11:01:54.860+05:30  INFO 31304 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 2.042 seconds (process running for 2.448)
+2025-01-24T11:02:05.814+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T11:02:05.815+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T11:02:05.815+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-01-24T11:02:05.869+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T11:02:05.870+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T11:02:05.871+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T11:02:36.310+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: false
+2025-01-24T11:02:36.310+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Returning failure response for status: false
+2025-01-24T11:02:36.310+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-2] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=111, description=Something bad happened internally, status=1}
+2025-01-24T11:02:53.671+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-3] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T11:02:53.672+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-3] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T11:02:53.672+05:30  INFO 31304 --- [truefalse] [http-nio-8080-exec-3] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T11:04:31.372+05:30  INFO 2772 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 2772 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T11:04:31.376+05:30  INFO 2772 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T11:04:32.188+05:30  INFO 2772 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T11:04:32.202+05:30  INFO 2772 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T11:04:32.203+05:30  INFO 2772 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T11:04:32.248+05:30  INFO 2772 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T11:04:32.249+05:30  INFO 2772 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 822 ms
+2025-01-24T11:04:32.576+05:30  INFO 2772 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T11:04:32.583+05:30  INFO 2772 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.627 seconds (process running for 1.952)
+2025-01-24T11:04:44.763+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T11:04:44.765+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T11:04:44.766+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-01-24T11:04:44.807+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.statusCheckController      : Received request to get limit rules with status: true
+2025-01-24T11:04:44.808+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T11:04:44.808+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T11:04:44.810+05:30  INFO 2772 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : data details: {rule={ruleCode=rule1, amountLimit=10000, startDateTime=2022-05-25T07:30.000+0000, keyTemplate=${transactionDetails.customerId}, ruleGroup=dmrc, eligibility=true, ruleId=1, timeFrame=DAY, precedence=1, status=ACTIVE}}
+2025-01-24T11:12:28.126+05:30  INFO 37544 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 37544 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T11:12:28.129+05:30  INFO 37544 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T11:12:28.997+05:30  INFO 37544 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T11:12:29.011+05:30  INFO 37544 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T11:12:29.011+05:30  INFO 37544 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T11:12:29.058+05:30  INFO 37544 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T11:12:29.059+05:30  INFO 37544 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 885 ms
+2025-01-24T11:12:29.417+05:30  WARN 37544 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T11:12:29.434+05:30  INFO 37544 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T11:12:29.461+05:30 ERROR 37544 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T11:16:34.502+05:30  INFO 17204 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 17204 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T11:16:34.504+05:30  INFO 17204 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T11:16:35.343+05:30  INFO 17204 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T11:16:35.357+05:30  INFO 17204 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T11:16:35.357+05:30  INFO 17204 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T11:16:35.401+05:30  INFO 17204 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T11:16:35.401+05:30  INFO 17204 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 856 ms
+2025-01-24T11:16:35.727+05:30  WARN 17204 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T11:16:35.743+05:30  INFO 17204 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T11:16:35.762+05:30 ERROR 17204 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T11:16:56.363+05:30  INFO 8952 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 8952 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T11:16:56.364+05:30  INFO 8952 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T11:16:57.162+05:30  INFO 8952 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T11:16:57.175+05:30  INFO 8952 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T11:16:57.176+05:30  INFO 8952 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T11:16:57.218+05:30  INFO 8952 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T11:16:57.218+05:30  INFO 8952 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 810 ms
+2025-01-24T11:16:57.529+05:30  WARN 8952 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T11:16:57.540+05:30  INFO 8952 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T11:16:57.557+05:30 ERROR 8952 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T11:17:22.625+05:30  INFO 36204 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 36204 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T11:17:22.628+05:30  INFO 36204 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T11:17:23.425+05:30  INFO 36204 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T11:17:23.438+05:30  INFO 36204 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T11:17:23.439+05:30  INFO 36204 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T11:17:23.482+05:30  INFO 36204 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T11:17:23.484+05:30  INFO 36204 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 817 ms
+2025-01-24T11:17:23.807+05:30  INFO 36204 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T11:17:23.815+05:30  INFO 36204 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.598 seconds (process running for 1.867)
+2025-01-24T11:17:51.065+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T11:17:51.066+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T11:17:51.067+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-24T11:17:51.112+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.StatusCheckController      : Received request to get limit rules with status: true
+2025-01-24T11:17:51.114+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T11:17:51.114+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T11:17:51.114+05:30  INFO 36204 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : data details: {rule={ruleCode=rule1, amountLimit=10000, startDateTime=2022-05-25T07:30.000+0000, keyTemplate=${transactionDetails.customerId}, ruleGroup=dmrc, eligibility=true, ruleId=1, timeFrame=DAY, precedence=1, status=ACTIVE}}
+2025-01-24T12:15:35.582+05:30  INFO 16296 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 16296 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:15:35.584+05:30  INFO 16296 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:15:36.403+05:30  INFO 16296 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:15:36.417+05:30  INFO 16296 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:15:36.417+05:30  INFO 16296 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:15:36.456+05:30  INFO 16296 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:15:36.458+05:30  INFO 16296 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 833 ms
+2025-01-24T12:15:36.761+05:30  WARN 16296 --- [truefalse] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-01-24T12:15:36.776+05:30  INFO 16296 --- [truefalse] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-01-24T12:15:36.792+05:30 ERROR 16296 --- [truefalse] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-01-24T12:15:44.380+05:30  INFO 9152 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 9152 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:15:44.384+05:30  INFO 9152 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:15:45.213+05:30  INFO 9152 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:15:45.229+05:30  INFO 9152 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:15:45.229+05:30  INFO 9152 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:15:45.272+05:30  INFO 9152 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:15:45.272+05:30  INFO 9152 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 849 ms
+2025-01-24T12:15:45.574+05:30  INFO 9152 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:15:45.580+05:30  INFO 9152 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.606 seconds (process running for 1.884)
+2025-01-24T12:16:40.624+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T12:16:40.624+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T12:16:40.624+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-01-24T12:16:40.660+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.StatusCheckController      : Received request to get limit rules with status: true
+2025-01-24T12:16:40.663+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Returning success response for status: true
+2025-01-24T12:16:40.663+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T12:16:40.663+05:30  INFO 9152 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.serviceImp  : data details: {rule={ruleCode=rule1, amountLimit=10000, startDateTime=2022-05-25T07:30.000+0000, keyTemplate=${transactionDetails.customerId}, ruleGroup=dmrc, eligibility=true, ruleId=1, timeFrame=DAY, precedence=1, status=ACTIVE}}
+2025-01-24T12:21:26.752+05:30  INFO 9508 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 9508 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:21:26.755+05:30  INFO 9508 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:21:27.523+05:30  INFO 9508 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:21:27.533+05:30  INFO 9508 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:21:27.533+05:30  INFO 9508 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:21:27.576+05:30  INFO 9508 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:21:27.576+05:30  INFO 9508 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 780 ms
+2025-01-24T12:21:27.884+05:30  INFO 9508 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:21:27.892+05:30  INFO 9508 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.565 seconds (process running for 1.851)
+2025-01-24T12:21:44.397+05:30  INFO 9508 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T12:21:44.398+05:30  INFO 9508 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T12:21:44.399+05:30  INFO 9508 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-01-24T12:21:44.452+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:21:49.782+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:21:50.528+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:21:50.729+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-4] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:21:50.922+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-5] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:21:51.121+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-6] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:21:51.336+05:30 ERROR 9508 --- [truefalse] [http-nio-8080-exec-7] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problem: 
+	request cannot be resolved
+
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:19) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:29:29.191+05:30  INFO 36788 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 36788 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:29:29.192+05:30  INFO 36788 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:29:29.969+05:30  INFO 36788 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:29:29.983+05:30  INFO 36788 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:29:29.984+05:30  INFO 36788 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:29:30.025+05:30  INFO 36788 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:29:30.027+05:30  INFO 36788 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 795 ms
+2025-01-24T12:29:30.365+05:30  INFO 36788 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:29:30.372+05:30  INFO 36788 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.585 seconds (process running for 1.877)
+2025-01-24T12:33:58.588+05:30  INFO 32940 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 32940 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:33:58.588+05:30  INFO 32940 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:33:59.398+05:30  INFO 32940 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:33:59.409+05:30  INFO 32940 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:33:59.409+05:30  INFO 32940 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:33:59.451+05:30  INFO 32940 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:33:59.451+05:30  INFO 32940 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 822 ms
+2025-01-24T12:33:59.785+05:30  INFO 32940 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:33:59.791+05:30  INFO 32940 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.584 seconds (process running for 1.854)
+2025-01-24T12:41:23.244+05:30  INFO 14780 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 14780 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:41:23.248+05:30  INFO 14780 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:41:24.074+05:30  INFO 14780 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:41:24.090+05:30  INFO 14780 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:41:24.090+05:30  INFO 14780 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:41:24.131+05:30  INFO 14780 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:41:24.131+05:30  INFO 14780 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 842 ms
+2025-01-24T12:41:24.461+05:30  INFO 14780 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:41:24.467+05:30  INFO 14780 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.657 seconds (process running for 1.945)
+2025-01-24T12:41:29.848+05:30  INFO 14780 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T12:41:29.848+05:30  INFO 14780 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T12:41:29.855+05:30  INFO 14780 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2025-01-24T12:41:29.885+05:30  INFO 14780 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.StatusCheckController      : Method: statusOutput, URL: false, Received request to get limit rules with status: {}
+2025-01-24T12:41:29.896+05:30 ERROR 14780 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problems: 
+	ServletRequestAttributes cannot be resolved to a type
+	ServletRequestAttributes cannot be resolved to a type
+	RequestContextHolder cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problems: 
+	ServletRequestAttributes cannot be resolved to a type
+	ServletRequestAttributes cannot be resolved to a type
+	RequestContextHolder cannot be resolved
+
+	at com.statuscheck.truefalse.projectservicepacakage.ServiceImp.statusCheck(ServiceImp.java:18) ~[classes/:na]
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:21) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:41:30.940+05:30  INFO 14780 --- [truefalse] [http-nio-8080-exec-2] c.s.truefalse.StatusCheckController      : Method: statusOutput, URL: false, Received request to get limit rules with status: {}
+2025-01-24T12:41:30.942+05:30 ERROR 14780 --- [truefalse] [http-nio-8080-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problems: 
+	ServletRequestAttributes cannot be resolved to a type
+	ServletRequestAttributes cannot be resolved to a type
+	RequestContextHolder cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problems: 
+	ServletRequestAttributes cannot be resolved to a type
+	ServletRequestAttributes cannot be resolved to a type
+	RequestContextHolder cannot be resolved
+
+	at com.statuscheck.truefalse.projectservicepacakage.ServiceImp.statusCheck(ServiceImp.java:18) ~[classes/:na]
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:21) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:41:32.529+05:30  INFO 14780 --- [truefalse] [http-nio-8080-exec-3] c.s.truefalse.StatusCheckController      : Method: statusOutput, URL: false, Received request to get limit rules with status: {}
+2025-01-24T12:41:32.530+05:30 ERROR 14780 --- [truefalse] [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Handler dispatch failed: java.lang.Error: Unresolved compilation problems: 
+	ServletRequestAttributes cannot be resolved to a type
+	ServletRequestAttributes cannot be resolved to a type
+	RequestContextHolder cannot be resolved
+] with root cause
+
+java.lang.Error: Unresolved compilation problems: 
+	ServletRequestAttributes cannot be resolved to a type
+	ServletRequestAttributes cannot be resolved to a type
+	RequestContextHolder cannot be resolved
+
+	at com.statuscheck.truefalse.projectservicepacakage.ServiceImp.statusCheck(ServiceImp.java:18) ~[classes/:na]
+	at com.statuscheck.truefalse.StatusCheckController.statusOutput(StatusCheckController.java:21) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.2.1.jar:6.2.1]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.34.jar:6.0]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.2.1.jar:6.2.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.34.jar:10.1.34]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+
+2025-01-24T12:45:02.900+05:30  INFO 19008 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 19008 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:45:02.905+05:30  INFO 19008 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:45:03.688+05:30  INFO 19008 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:45:03.703+05:30  INFO 19008 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:45:03.703+05:30  INFO 19008 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:45:03.746+05:30  INFO 19008 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:45:03.746+05:30  INFO 19008 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 797 ms
+2025-01-24T12:45:04.078+05:30  INFO 19008 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:45:04.085+05:30  INFO 19008 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.607 seconds (process running for 1.878)
+2025-01-24T12:45:31.379+05:30  INFO 38368 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 38368 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:45:31.383+05:30  INFO 38368 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:45:32.195+05:30  INFO 38368 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:45:32.208+05:30  INFO 38368 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:45:32.209+05:30  INFO 38368 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:45:32.249+05:30  INFO 38368 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:45:32.250+05:30  INFO 38368 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 830 ms
+2025-01-24T12:45:32.567+05:30  INFO 38368 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:45:32.574+05:30  INFO 38368 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.621 seconds (process running for 1.9)
+2025-01-24T12:45:41.403+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-01-24T12:45:41.404+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-01-24T12:45:41.404+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2025-01-24T12:45:41.440+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] c.s.truefalse.StatusCheckController      : Method: statusOutput, URL: true, Received request to get limit rules with status: {}
+2025-01-24T12:45:41.442+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.ServiceImp  : Received request - URL: http://localhost:8080/api/v1/config/limit-rules/true
+2025-01-24T12:45:41.443+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.ServiceImp  : Returning success response for status: true
+2025-01-24T12:45:41.443+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.ServiceImp  : Meta details: {code=000, description=SUCCESS, status=0}
+2025-01-24T12:45:41.443+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-1] c.s.t.projectservicepacakage.ServiceImp  : data details: {rule={ruleCode=rule1, amountLimit=10000, startDateTime=2022-05-25T07:30.000+0000, keyTemplate=${transactionDetails.customerId}, ruleGroup=dmrc, eligibility=true, ruleId=1, timeFrame=DAY, precedence=1, status=ACTIVE}}
+2025-01-24T12:46:50.706+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-4] c.s.truefalse.StatusCheckController      : Method: statusOutput, URL: false, Received request to get limit rules with status: {}
+2025-01-24T12:46:50.707+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.ServiceImp  : Received request - URL: http://localhost:8080/api/v1/config/limit-rules/false
+2025-01-24T12:46:50.707+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.ServiceImp  : Returning failure response for status: false
+2025-01-24T12:46:50.708+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.ServiceImp  : data details: {isSuccessful=false}
+2025-01-24T12:46:50.708+05:30  INFO 38368 --- [truefalse] [http-nio-8080-exec-4] c.s.t.projectservicepacakage.ServiceImp  : Meta details: {code=111, description=Something bad happened internally, status=1}
+2025-01-24T12:51:59.752+05:30  INFO 31372 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Starting TruefalseApplication using Java 21.0.5 with PID 31372 (C:\Users\HP\Downloads\truefalse\truefalse\target\classes started by HP in C:\Users\HP\Downloads\truefalse)
+2025-01-24T12:51:59.754+05:30  INFO 31372 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-01-24T12:52:00.652+05:30  INFO 31372 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-01-24T12:52:00.667+05:30  INFO 31372 --- [truefalse] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-01-24T12:52:00.667+05:30  INFO 31372 --- [truefalse] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.34]
+2025-01-24T12:52:00.713+05:30  INFO 31372 --- [truefalse] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-01-24T12:52:00.713+05:30  INFO 31372 --- [truefalse] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 917 ms
+2025-01-24T12:52:01.047+05:30  INFO 31372 --- [truefalse] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-01-24T12:52:01.056+05:30  INFO 31372 --- [truefalse] [main] c.s.truefalse.TruefalseApplication       : Started TruefalseApplication in 1.751 seconds (process running for 2.057)
